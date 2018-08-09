@@ -3,9 +3,11 @@
 ***
 To sort players, run the python script `team_builder.py`
 
-###There are two ways to run this
+The master list of players are in `store/player_master_list.csv` 
 
-######Add your player list as a parameter
+### There are two ways to run this
+
+###### Add your player list as a parameter
 
 ```
 python3 team_builder.py player_list_complete.csv
@@ -13,7 +15,7 @@ python3 team_builder.py player_list_complete.csv
 ![Alt Text](https://media.giphy.com/media/1hzXYPdeiGt7Nq1Jcf/giphy.gif)
 
 
-######Use default player list
+###### Use default player list
 
 *Note: The default file name is player_list*
 
